@@ -1,0 +1,65 @@
+pluginManagement {
+    repositories {
+        gradlePluginPortal()
+        google()
+        mavenCentral()
+    }
+}
+dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+rootProject.name = "Dynamic Feature Limit"
+include ':app'
+include ':dynamicfeature1'
+include ':dynamicfeature2'
+include ':dynamicfeature3'
+include ':dynamicfeature4'
+include ':dynamicfeature5'
+include ':dynamicfeature6'
+include ':dynamicfeature7'
+include ':dynamicfeature8'
+include ':dynamicfeature9'
+include ':dynamicfeature10'
+include ':dynamicfeature11'
+include ':dynamicfeature12'
+include ':dynamicfeature13'
+include ':dynamicfeature14'
+include ':dynamicfeature15'
+include ':dynamicfeature16'
+include ':dynamicfeature17'
+include ':dynamicfeature18'
+include ':dynamicfeature19'
+include ':dynamicfeature20'
+include ':dynamicfeature21'
+include ':dynamicfeature22'
+include ':dynamicfeature23'
+include ':dynamicfeature24'
+include ':dynamicfeature25'
+include ':dynamicfeature26'
+include ':dynamicfeature27'
+include ':dynamicfeature28'
+include ':dynamicfeature29'
+include ':dynamicfeature30'
+include ':dynamicfeature31'
+include ':dynamicfeature32'
+include ':dynamicfeature33'
+include ':dynamicfeature34'
+include ':dynamicfeature35'
+include ':dynamicfeature36'
+include ':dynamicfeature37'
+include ':dynamicfeature38'
+include ':dynamicfeature39'
+include ':dynamicfeature40'
+include ':dynamicfeature41'
+include ':dynamicfeature42'
+include ':dynamicfeature43'
+include ':dynamicfeature44'
+include ':dynamicfeature45'
+include ':dynamicfeature46'
+include ':dynamicfeature47'
+include ':dynamicfeature48'
+include ':dynamicfeature49'
